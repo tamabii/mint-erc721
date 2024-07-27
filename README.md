@@ -11,7 +11,7 @@ https://github.com/tamabii/swisstronik-mint-erc721.git
 ```
 
 ```
-cd swisstronik-erc20mint-token
+cd swisstronik-mint-erc721
 ```
 
 ### 2. Install Dependency
